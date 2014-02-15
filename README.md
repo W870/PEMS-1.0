@@ -8,6 +8,14 @@ Lazyink, TheSzerdi, Falcyn, TAWTonic amongst others. As such is is similar to th
 
 At the moment PEMS is a work in progress and under a re-write. 
 
+Current Issues:
+
+Random loot hmmwv_cargo bugged
+Custom publisher files need initialised 
+Markers probably broken
+
+
+
 Developer
 
 Firefly
